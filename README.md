@@ -1,6 +1,6 @@
 # Abdi İbrahim Simulator
 
 
-An hyper-casual demo game. 
+A hyper-casual demo game. 
 
 Created with Unity.
